@@ -22,6 +22,6 @@ Thank you for your support, and I look forward to sharing more exciting updates 
 
 | Script | Demo |
 | ------ | ------ |
-|   [Withdraw All LinkedIn Connection Requests](./LinkedIn/withdraw-all-connection-requests/README.md)    |    <img width="400" src="https://github.com/MortezaNedaei/Compose-BlurHash/assets/38072572/a0800893-9858-4c3d-a0f1-20c59fbfb008" />   |
+|   [Withdraw All LinkedIn Connection Requests](./LinkedIn/withdraw-all-connection-requests)    |    <img width="400" src="https://github.com/MortezaNedaei/Compose-BlurHash/assets/38072572/a0800893-9858-4c3d-a0f1-20c59fbfb008" />   |
 
 
