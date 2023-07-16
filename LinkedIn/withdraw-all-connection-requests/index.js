@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LinkedIn Withdraw All Connection Requests
 // @namespace    https://mortezanedaei.github.io
-// @version      0.1.1
+// @version      0.1.0
 // @description  Withdraw all LinkedIn connection requests with a single click
 // @author       @MortezaNedaei
 // @match        https://www.linkedin.com/mynetwork/invitation-manager/sent/?invitationType=CONNECTION
