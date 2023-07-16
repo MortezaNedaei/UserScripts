@@ -14,4 +14,4 @@ This Userscript used to Withdraw all LinkedIn connection requests with a single 
 
 ### Demo
 
-<img width="400" src="https://github.com/MortezaNedaei/Compose-BlurHash/assets/38072572/a0800893-9858-4c3d-a0f1-20c59fbfb008"  alt="LinkedIn Withdraw All"/>
+<img width="400" src="https://github.com/MortezaNedaei/UserScripts/assets/38072572/eec4cba9-6d3b-4239-830f-71630a235e91"  alt="LinkedIn Withdraw All"/>
