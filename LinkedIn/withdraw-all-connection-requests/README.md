@@ -8,7 +8,7 @@ This Userscript used to Withdraw all LinkedIn connection requests with a single 
 - When the `Withdraw All` button is clicked, it withdraws all send requests using an interval 
 
 ## How to use:
-- Add the script from [GreasyFork](https://greasyfork.org/en/scripts) and enable the script.
+- Add the script from [GreasyFork](https://greasyfork.org/en/scripts/470983-linkedin-withdraw-all-connection-requests) and install the script.
 - Open Your LinkedIn [sent](https://www.linkedin.com/mynetwork/invitation-manager/sent/?invitationType=CONNECTION) requests tab.
 - Click On new `Withdraw All` button
 
