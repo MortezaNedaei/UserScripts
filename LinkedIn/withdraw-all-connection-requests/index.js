@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         LinkedIn Withdraw All Connection Requests
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://mortezanedaei.github.io
+// @version      0.1.1
 // @description  Withdraw all LinkedIn connection requests with a single click
 // @author       @MortezaNedaei
 // @match        https://www.linkedin.com/mynetwork/invitation-manager/sent/?invitationType=CONNECTION
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=linkedin.com
-// @grant        none
+// @grant        GM_xmlhttpRequest
+// @license      MIT
 // ==/UserScript==
 
 // How To use:
